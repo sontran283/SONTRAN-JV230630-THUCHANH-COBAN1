@@ -1,0 +1,39 @@
+/* 1 */
+/* 1 */
+.total {
+    margin-left: 300px;
+    position: relative;
+}
+
+.qaz {
+    background-color:rgb(192, 147, 64);
+    width: 50%;
+    height: 26%;
+    position: absolute;
+    bottom: 40px;
+    opacity: 0.8;
+}
+
+/* 2 */
+/* 2 */
+.Smart {
+    margin-left: 335px;
+    margin-top: 20px;
+}
+
+.Vacation {
+    width: 300px;
+    height: 200px;
+    padding: 3px;
+    margin: 6px;
+    display: inline-block;
+    border-top: 2px solid rgb(220, 160, 28);
+}
+
+.Full {
+    width: 300px;
+    height: 120px;
+}
+.XYZ{
+    margin-top: 20px;
+}
